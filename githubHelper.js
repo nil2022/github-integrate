@@ -56,5 +56,3 @@ async function fetchCommits(username, repository, pageSize = 2) {
         // process.exit(1);
     }
 }
-
-fetchCommits("nilanjanhaldar24", "sample-repo");
